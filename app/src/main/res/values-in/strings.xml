@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Cerita</string>
+    <string name="signup">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="title_signup_page">Lengkapi detail di bawah ini</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="email_invalid">Format email tidak valid</string>
+    <string name="password_hint">Masukkan kata sandi Anda</string>
+    <string name="hint_email">Masukkan email Anda</string>
+    <string name="password_invalid">Kata sandi tidak boleh kurang dari 8 karakter</string>
+    <string name="silahkan_login">Silakan Masuk</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar_sekarang">Daftar sekarang</string>
+    <string name="masuk_sekarang">Masuk sekarang</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="create_new_story">Buat cerita baru</string>
+    <string name="enter_your_name">Masukkan nama Anda</string>
+    <string name="logout_message">Apakah Anda yakin ingin keluar?</string>
+    <string name="logout_process">Keluar…</string>
+    <string name="story_photo">Foto Cerita</string>
+    <string name="story_name">Nama cerita</string>
+    <string name="story_description">Deskripsi cerita</string>
+    <string name="story_date">Tanggal cerita</string>
+    <string name="no_stories_available">Tidak ada cerita tersedia</string>
+    <string name="welcome">Selamat datang,</string>
+    <string name="gallery">Galeri</string>
+    <string name="capture">Ambil foto</string>
+    <string name="image_preview">Pratinjau gambar</string>
+    <string name="upload">Unggah</string>
+    <string name="camera_start_failed">Gagal memulai kamera</string>
+    <string name="please_choose_a_picture_first">Silakan pilih gambar terlebih dahulu</string>
+    <string name="please_add_description">Silakan tambahkan deskripsi</string>
+    <string name="camera_is_not_ready">Kamera tidak siap</string>
+    <string name="capture_failed">Gagal mengambil gambar: %1$s</string>
+    <string name="story_uploaded_successfully">Cerita berhasil diunggah</string>
+    <string name="error">Kesalahan: %1$s</string>
+    <string name="story_image">Gambar cerita</string>
+    <string-array name="array_language">
+        <item>Inggris</item>
+        <item>Indonesia</item>
+    </string-array>
+    <string name="language">Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="flip_camera">balik kamera</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="timeout">Waktu Habis</string>
+    <string name="include_location">Sertakan lokasi saat ini</string>
+    <string name="location_permission_denied">Izin lokasi ditolak</string>
+    <string name="location_acquired">Lokasi berhasil diperoleh</string>
+    <string name="location_not_found">Tidak dapat memperoleh lokasi saat ini</string>
+    <string name="map_style_parsing_failed">Parsing gaya peta gagal.</string>
+    <string name="can_t_find_style_error">Tidak dapat menemukan gaya. Kesalahan: %1$s</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">Aktivitas Maps</string>
+</resources>

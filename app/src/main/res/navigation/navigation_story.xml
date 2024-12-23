@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/listStoryFragment">
+    <fragment
+        android:id="@+id/listStoryFragment"
+        android:name="com.moehoemar.storyapp.views.story.ui.list.StoryListFragment"
+        android:label="fragment_list_story"
+        tools:layout="@layout/fragment_list_story" />
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.moehoemar.storyapp.views.auth.login.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.moehoemar.storyapp.views.settings.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+
+
+</navigation>
